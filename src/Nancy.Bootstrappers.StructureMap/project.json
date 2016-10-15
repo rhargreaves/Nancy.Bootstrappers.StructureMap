@@ -14,9 +14,7 @@
     "iconUrl": "http://nancyfx.org/nancy-nuget.png"
   },
   "dependencies": {
-    "Nancy": {
-      "target": "project"
-    },
+    "Nancy": "2.0.0-barneyrubble",
     "StructureMap": "4.4.1"
   },
   "frameworks": {
